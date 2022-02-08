@@ -1,2 +1,2 @@
 # automata
-Helpful Scipts for public consumption 
+This is a collection of Helpful Scipts for public consumption! 
