@@ -1,7 +1,7 @@
 # automata
 This is a collection of Helpful Scipts for public consumption! 
 
-#Cockpit Installer for CentOS
+# Cockpit Installer for CentOS
 Run the below on your CentOS machine:
 
 ```
