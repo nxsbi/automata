@@ -1,8 +1,14 @@
 # automata
 This is a collection of Helpful Scipts for public consumption! 
 
-# Cockpit Installer for CentOS
+# Cockpit Installer for CentOS 
 Run the below on your CentOS machine:
+Cockpit is a web-based graphical interface for servers, intended for everyone, especially those who are:
+- New to Linux (including Windows admins)
+- Familiar with Linux and want an easy, graphical way to administer servers 
+- Expert admins who mainly use other tools but want an overview on individual systems 
+
+More at https://cockpit-project.org/
 
 ```
 wget -c https://raw.githubusercontent.com/nxsbi/automata/main/cockpit_setup.sh
